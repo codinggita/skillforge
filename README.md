@@ -84,9 +84,25 @@ npm run dev
 
 ---
 
+## 🌐 Live Demo & Deployment
+**Frontend Deployment**: [https://craftathon-gu.vercel.app/](https://craftathon-gu.vercel.app/)
+
+---
+
+## 📸 Screenshots
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQEiVuBfdwbvEw/feedshare-shrink_480/B56Z1hJEy_IAAk-/0/1775451262407?e=1779321600&v=beta&t=hhhlwTIt8U_7zsHHokBigR2F0u35ZALn0qXi7L_dl7g" width="800" alt="Dashboard View">
+  <br><br>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQFKd50FVLTQaA/feedshare-shrink_480/B56Z1hJFA8JwAk-/0/1775451263263?e=1779321600&v=beta&t=-FG7xA5qRGZZ0vO2gkDq53Tc2B5AoU6Jx0dRoAkivt0" width="800" alt="Behavioral Analytics">
+  <br><br>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGywn_CcxUgqA/feedshare-shrink_480/B56Z1hJFD9KkAo-/0/1775451263461?e=1779321600&v=beta&t=jyDiOuTfMN91sqkdZfd7sM-Z7Bfz5YN2UDpgjlR8TR4" width="800" alt="Anomaly Detection">
+</div>
+
+---
+
 ## 🛡️ Security Philosophy
 BehaveGuard operates on a **Zero-Storage Philosophy** for biometrics. We do not store images or recordings; instead, we store the **mathematical rhythm** of your interaction. This ensures maximum privacy while providing bank-grade security.
 
 ---
 **Developed for CRAFTATHON_GU**  
-*Final Production State - 2026*
+*Final Production State - 2026*
